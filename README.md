@@ -66,7 +66,3 @@ packet-visualizer/
 ## Why I Built This
 
 I created this project while learning cybersecurity and networking to better understand how packet capture, protocol analysis, and real-time data streaming work in practice.
-
-## License
-
-MIT License
